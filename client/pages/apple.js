@@ -1,5 +1,5 @@
 const Apple = () => {
-    return <h1>Apple</h1>
+    return <h1>AppleMapple</h1>
 };
 
 export default Apple;
